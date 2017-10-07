@@ -87,133 +87,11 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/content\/1-projects\/1-project-a\/closeup.jpg": {
-		"ft": 16384,
-		"iS": 166719,
-		"oA": 0,
-		"oAP": "\/content\/1-projects\/1-project-a\/closeup.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/1-projects\/1-project-a\/closeup.jpg.txt": {
+	"\/content\/1-projects\/designing-for-the-notch\/project.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/1-projects\/1-project-a\/closeup.jpg.txt",
+		"oAP": "\/content\/1-projects\/designing-for-the-notch\/project.txt",
 		"oF": 0
-		},
-	"\/content\/1-projects\/1-project-a\/creative-tools.jpg": {
-		"ft": 16384,
-		"iS": 519434,
-		"oA": 0,
-		"oAP": "\/content\/1-projects\/1-project-a\/creative-tools.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/1-projects\/1-project-a\/creative-tools.jpg.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/1-projects\/1-project-a\/creative-tools.jpg.txt",
-		"oF": 0
-		},
-	"\/content\/1-projects\/1-project-a\/folding-rule.jpg": {
-		"ft": 16384,
-		"iS": 141663,
-		"oA": 0,
-		"oAP": "\/content\/1-projects\/1-project-a\/folding-rule.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/1-projects\/1-project-a\/folding-rule.jpg.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/1-projects\/1-project-a\/folding-rule.jpg.txt",
-		"oF": 0
-		},
-	"\/content\/1-projects\/1-project-a\/project.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/1-projects\/1-project-a\/project.txt",
-		"oF": 0
-		},
-	"\/content\/1-projects\/2-project-b\/project.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/1-projects\/2-project-b\/project.txt",
-		"oF": 0
-		},
-	"\/content\/1-projects\/2-project-b\/room.jpg": {
-		"ft": 16384,
-		"iS": 91563,
-		"oA": 0,
-		"oAP": "\/content\/1-projects\/2-project-b\/room.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/1-projects\/2-project-b\/table.jpg": {
-		"ft": 16384,
-		"iS": 67885,
-		"oA": 0,
-		"oAP": "\/content\/1-projects\/2-project-b\/table.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/1-projects\/3-project-c\/camera.jpg": {
-		"ft": 16384,
-		"iS": 116724,
-		"oA": 0,
-		"oAP": "\/content\/1-projects\/3-project-c\/camera.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/1-projects\/3-project-c\/project.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/1-projects\/3-project-c\/project.txt",
-		"oF": 0
-		},
-	"\/content\/1-projects\/4-project-d\/letters.jpg": {
-		"ft": 16384,
-		"iS": 106743,
-		"oA": 0,
-		"oAP": "\/content\/1-projects\/4-project-d\/letters.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/1-projects\/4-project-d\/project.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/1-projects\/4-project-d\/project.txt",
-		"oF": 0
-		},
-	"\/content\/1-projects\/5-project-e\/project.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/1-projects\/5-project-e\/project.txt",
-		"oF": 0
-		},
-	"\/content\/1-projects\/5-project-e\/typewriter.jpg": {
-		"ft": 16384,
-		"iS": 133353,
-		"oA": 0,
-		"oAP": "\/content\/1-projects\/5-project-e\/typewriter.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/content\/1-projects\/projects.txt": {
 		"ft": 8192,
@@ -221,178 +99,17 @@
 		"oAP": "\/content\/1-projects\/projects.txt",
 		"oF": 0
 		},
-	"\/content\/2-blog\/20160802-extending-kirby\/article.txt": {
+	"\/content\/1-projects\/twitter-landing-page\/project.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/2-blog\/20160802-extending-kirby\/article.txt",
+		"oAP": "\/content\/1-projects\/twitter-landing-page\/project.txt",
 		"oF": 0
 		},
-	"\/content\/2-blog\/20160802-extending-kirby\/extending.png": {
-		"ft": 32768,
-		"iS": 31985,
-		"oA": 0,
-		"oAP": "\/content\/2-blog\/20160802-extending-kirby\/extending.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/content\/2-blog\/20160803-licensing-kirby\/article.txt": {
+	"\/content\/1-projects\/ui-design-bot\/project.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/2-blog\/20160803-licensing-kirby\/article.txt",
+		"oAP": "\/content\/1-projects\/ui-design-bot\/project.txt",
 		"oF": 0
-		},
-	"\/content\/2-blog\/20160803-licensing-kirby\/licensing.png": {
-		"ft": 32768,
-		"iS": 118620,
-		"oA": 0,
-		"oAP": "\/content\/2-blog\/20160803-licensing-kirby\/licensing.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/content\/2-blog\/20160804-content-in-kirby\/article.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/2-blog\/20160804-content-in-kirby\/article.txt",
-		"oF": 0
-		},
-	"\/content\/2-blog\/20160804-content-in-kirby\/content.png": {
-		"ft": 32768,
-		"iS": 33075,
-		"oA": 0,
-		"oAP": "\/content\/2-blog\/20160804-content-in-kirby\/content.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/content\/2-blog\/blog.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/2-blog\/blog.txt",
-		"oF": 0
-		},
-	"\/content\/3-about\/0-bob-meowerly\/bob-meowerly.jpg": {
-		"ft": 16384,
-		"iS": 23574,
-		"oA": 0,
-		"oAP": "\/content\/3-about\/0-bob-meowerly\/bob-meowerly.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/3-about\/0-bob-meowerly\/team.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/3-about\/0-bob-meowerly\/team.txt",
-		"oF": 0
-		},
-	"\/content\/3-about\/0-brad-kitt\/brad-kitt.jpg": {
-		"ft": 16384,
-		"iS": 21755,
-		"oA": 0,
-		"oAP": "\/content\/3-about\/0-brad-kitt\/brad-kitt.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/3-about\/0-brad-kitt\/team.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/3-about\/0-brad-kitt\/team.txt",
-		"oF": 0
-		},
-	"\/content\/3-about\/0-cat-winslet\/cat-winslet.jpg": {
-		"ft": 16384,
-		"iS": 25843,
-		"oA": 0,
-		"oAP": "\/content\/3-about\/0-cat-winslet\/cat-winslet.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/3-about\/0-cat-winslet\/team.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/3-about\/0-cat-winslet\/team.txt",
-		"oF": 0
-		},
-	"\/content\/3-about\/0-hunter-s-tomcat\/hunter-s-tomcat.jpg": {
-		"ft": 16384,
-		"iS": 31497,
-		"oA": 0,
-		"oAP": "\/content\/3-about\/0-hunter-s-tomcat\/hunter-s-tomcat.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/3-about\/0-hunter-s-tomcat\/team.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/3-about\/0-hunter-s-tomcat\/team.txt",
-		"oF": 0
-		},
-	"\/content\/3-about\/about.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/3-about\/about.txt",
-		"oF": 0
-		},
-	"\/content\/4-contact\/contact.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/content\/4-contact\/contact.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/content\/4-contact\/contact.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/4-contact\/contact.txt",
-		"oF": 0
-		},
-	"\/content\/4-contact\/docs.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/content\/4-contact\/docs.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/content\/4-contact\/forum.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/content\/4-contact\/forum.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/content\/4-contact\/github.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/content\/4-contact\/github.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/content\/error\/error.txt": {
 		"ft": 8192,
@@ -410,6 +127,36 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/site.txt",
+		"oF": 0
+		},
+	"\/content\/work-places\/buzzfeed\/work.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/work-places\/buzzfeed\/work.txt",
+		"oF": 0
+		},
+	"\/content\/work-places\/default.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/work-places\/default.txt",
+		"oF": 0
+		},
+	"\/content\/work-places\/dell\/work.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/work-places\/dell\/work.txt",
+		"oF": 0
+		},
+	"\/content\/work-places\/napster\/work.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/work-places\/napster\/work.txt",
+		"oF": 0
+		},
+	"\/content\/work-places\/spotify\/work.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/work-places\/spotify\/work.txt",
 		"oF": 0
 		},
 	"\/index.php": {
@@ -5916,10 +5663,34 @@
 		"oAP": "\/site\/blueprints\/home.yml",
 		"oF": 0
 		},
+	"\/site\/blueprints\/project.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/blueprints\/project.yml",
+		"oF": 0
+		},
+	"\/site\/blueprints\/projects.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/blueprints\/projects.yml",
+		"oF": 0
+		},
 	"\/site\/blueprints\/site.yml": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/site\/blueprints\/site.yml",
+		"oF": 0
+		},
+	"\/site\/blueprints\/work.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/blueprints\/work.yml",
+		"oF": 0
+		},
+	"\/site\/blueprints\/workplaces.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/blueprints\/workplaces.yml",
 		"oF": 0
 		},
 	"\/site\/cache": {
@@ -5964,41 +5735,23 @@
 		"oAP": "\/site\/templates\/home.php",
 		"oF": 0
 		},
+	"\/site\/templates\/project.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/templates\/project.php",
+		"oF": 0
+		},
+	"\/site\/templates\/work.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/templates\/work.php",
+		"oF": 0
+		},
 	"\/thumbs\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/thumbs\/index.html",
 		"oF": 0
-		},
-	"\/thumbs\/projects\/project-a\/creative-tools-600x600.jpg": {
-		"ft": 16384,
-		"iS": 88271,
-		"oA": 0,
-		"oAP": "\/thumbs\/projects\/project-a\/creative-tools-600x600.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/thumbs\/projects\/project-b\/room-600x600.jpg": {
-		"ft": 16384,
-		"iS": 62337,
-		"oA": 0,
-		"oAP": "\/thumbs\/projects\/project-b\/room-600x600.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/thumbs\/projects\/project-c\/camera-600x600.jpg": {
-		"ft": 16384,
-		"iS": 83599,
-		"oA": 0,
-		"oAP": "\/thumbs\/projects\/project-c\/camera-600x600.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		}
 	},
 "hooks": [

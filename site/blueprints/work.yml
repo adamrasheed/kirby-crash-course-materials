@@ -1,0 +1,10 @@
+title: Work
+
+fields:
+  title:
+    label: Title
+    type: text
+
+  link:
+    label: Link
+    type: url

@@ -1,0 +1,8 @@
+title: Project
+
+pages: default
+
+fields:
+  title:
+    label: Title
+    type: text
